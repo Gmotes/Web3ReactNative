@@ -1,0 +1,12 @@
+{
+  "name": "TransactionQRCode",
+  "displayName": "TransactionQRCode",
+  "expo": {
+    "name": "TransactionQRCode",
+    "slug": "TransactionQRCode",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
